@@ -1,30 +1,18 @@
-# 👋 Hey, I'm MD. Sihab Hossen. You call me sihab,it's my nickname.
+# 👋 Hi, I'm Sihab!
 
-🎓 Computer Science & Engineering Student  
-💻 Beginner Data Science & Machine Learning Enthusiast
+🎓 CSE Student | 📊 Aspiring Data Scientist
 
-## 🚀 About Me
+Passionate about exploring data, discovering patterns, and building Machine Learning projects.
 
-- 🌱 Currently learning Python, Data Science & Machine Learning
-- 📊 Practicing with Kaggle datasets
-- 🐍 Working with Python and Pandas
-- 🤖 Learning Machine Learning
-- 🔧 Using Git & GitHub for my projects
+### 🛠️ Skills & Tools
+- Python | Pandas | NumPy
+- Matplotlib | Scikit-learn
+- Git | GitHub | Kaggle
 
-## 🛠️ Skills
+### 🌱 Currently Learning
+Data Science • Machine Learning • Deep Learning
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Git & GitHub
-- Kaggle
-
-## 📚 Currently Learning
-
-Data Science → Machine Learning → Deep Learning
-
----
+### 🎯 My Goal
+Building meaningful projects and improving my problem-solving skills.
 
 ⭐ Thanks for visiting my profile!
